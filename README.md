@@ -4,6 +4,6 @@
  리눅스
  
 ## 2주차 과제
-
+<img width="" height="" src="./png/"></img>
 
 ## 3주차 과제
