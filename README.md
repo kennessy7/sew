@@ -4,6 +4,6 @@
  리눅스
  
 ## 2주차 과제
-<img width="" height="" src="./png/"></img>
+<img width="" height="" src="./png/캡스톱디자인 과제(2주차)_19273007고다현.png"></img>
 
 ## 3주차 과제
