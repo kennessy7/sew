@@ -28,7 +28,7 @@
 <img width="200" height="" src="./png/캡스톤 과제(7주차_2)_19273007 고다현.png"></img>
 
 ## 9주차과제
-  - 실행 되지 않아 재 업로드 예정. 
+
 package com.example.test_scroll2;
 
 import androidx.appcompat.app.AppCompatActivity;
