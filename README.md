@@ -33,5 +33,5 @@
 ## 10주차과제
 
 ## 12주차과제
-<img width="200" height="" src="./png/12주차.png"></img>
-<img width="200" height="" src="./png/12주차 2.png"></img>
+<img width="200" height="" src="./png/12주차.PNG"></img>
+<img width="200" height="" src="./png/12주차 2.PNG"></img>
