@@ -31,6 +31,7 @@
 <img width="200" height="" src="./png/캡스톤 과제(9주차)_19273007 고다현.png"></img>
 
 ## 10주차과제
+<img width="200" height="" src="./png/10주차.PNG"></img>
 
 ## 12주차과제
 <img width="200" height="" src="./png/12주차.PNG"></img>
