@@ -39,4 +39,4 @@
 <img width="200" height="" src="./png/11주차 3.PNG"></img>
 
 ## 13주차과제
-<img width="200" height="" src="./png/캡스톤 과제(12주차)_19273007 고다현.PNG"></img>
+<img width="200" height="" src="./png/캡스톤 과제(12주차)_19273007 고다현.png"></img>
