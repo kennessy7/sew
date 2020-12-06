@@ -40,3 +40,7 @@
 
 ## 13주차과제
 <img width="200" height="" src="./png/캡스톤 과제(12주차)_19273007 고다현.png"></img>
+
+## 14주차
+<img width="200" height="" src="./png/고다현 캡스톤.png"></img>
+<img width="200" height="" src="./png/고다현 캡스톤2.png"></img>
